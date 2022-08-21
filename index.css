@@ -1,0 +1,22 @@
+body {
+	margin: 0;
+	overflow: hidden;
+}
+
+.people {
+	height: 1rem;
+	position: absolute;
+	width: 1rem;
+}
+.adult-neumarkt {
+	background: lightcoral;
+}
+.adult-neuerwall {
+	background: darkred;
+}
+.children-neumarkt {
+	background: lightseagreen;
+}
+.children-neuerwall {
+	background: green;
+}
